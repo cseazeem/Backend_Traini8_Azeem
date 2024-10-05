@@ -9,7 +9,7 @@ This project is a backend application for Traini8, which provides a registry of 
 - Validation and exception handling
 
 ## Technologies Used
-- **Java 8**
+- **Java 17**
 - **Spring Boot**: For building the RESTful APIs
 - **PostgreSQL**: For database management
 - **JDBI**: For database access
