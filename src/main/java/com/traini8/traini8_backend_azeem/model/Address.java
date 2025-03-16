@@ -1,4 +1,4 @@
-package com.traini8.traini8_backend.model;
+package com.traini8.traini8_backend_azeem.model;
 
 import jakarta.persistence.Embeddable;
 import jakarta.validation.constraints.NotBlank;

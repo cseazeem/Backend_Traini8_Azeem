@@ -1,4 +1,4 @@
-package com.traini8.traini8_backend;
+package com.traini8.traini8_backend_azeem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

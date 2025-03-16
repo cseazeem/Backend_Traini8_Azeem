@@ -1,4 +1,4 @@
-package com.traini8.traini8_backend.exception;
+package com.traini8.traini8_backend_azeem.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

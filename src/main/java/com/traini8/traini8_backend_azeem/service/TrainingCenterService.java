@@ -1,8 +1,8 @@
-package com.traini8.traini8_backend.service;
+package com.traini8.traini8_backend_azeem.service;
 
 
-import com.traini8.traini8_backend.model.TrainingCenter;
-import com.traini8.traini8_backend.repository.TrainingCenterRepository;
+import com.traini8.traini8_backend_azeem.model.TrainingCenter;
+import com.traini8.traini8_backend_azeem.repository.TrainingCenterRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

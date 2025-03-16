@@ -1,7 +1,7 @@
-package com.traini8.traini8_backend.controller;
+package com.traini8.traini8_backend_azeem.controller;
 
-import com.traini8.traini8_backend.model.TrainingCenter;
-import com.traini8.traini8_backend.service.TrainingCenterService;
+import com.traini8.traini8_backend_azeem.model.TrainingCenter;
+import com.traini8.traini8_backend_azeem.service.TrainingCenterService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

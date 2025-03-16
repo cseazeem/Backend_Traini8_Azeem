@@ -1,6 +1,6 @@
-package com.traini8.traini8_backend.repository;
+package com.traini8.traini8_backend_azeem.repository;
 
-import com.traini8.traini8_backend.model.TrainingCenter;
+import com.traini8.traini8_backend_azeem.model.TrainingCenter;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
